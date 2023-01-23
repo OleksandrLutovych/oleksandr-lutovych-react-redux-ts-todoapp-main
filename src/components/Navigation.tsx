@@ -15,7 +15,7 @@ const Navigation = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/posts">PostsList</Link>
+                <Link to="/posts">PostssList</Link>
               </li>
               <li>
                 <Link to="/userslist">UsersList</Link>
